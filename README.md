@@ -1,6 +1,6 @@
 # PokemonAR
 Allows the user to view a Charizard (pokemon) on the Charizard level X pokemon card. The charizard comes with the moveset, fly and flamethrower.
-![](https://github.com/agithyogendra/PokemonAR/blob/master/Pokemon/Assets/Editor/Vuforia/ImageTargetTextures/Charizard/charizard_scaled.jpg =250x250)
+<img width="200" alt="portfolio_view" src="https://tinyurl.com/n4gtql8">
 
 
 ### How to use
